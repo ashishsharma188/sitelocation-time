@@ -1,0 +1,9 @@
+custom_library:
+  js: 
+    js/custom.js: {}
+
+  dependencies: 
+    - core/drupal
+    - core/jquery
+    - core/jquery.once
+    - core/drupalSettings

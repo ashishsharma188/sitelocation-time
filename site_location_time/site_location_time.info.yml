@@ -1,0 +1,7 @@
+name: Site Location Time for Location
+description: 'Block for site location and time based on admin selection'
+type: module
+core_version_requirement: ^8 || ^9
+package: Site Location and Time
+#configure
+configure: site_location_time.settings

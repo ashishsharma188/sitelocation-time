@@ -1,0 +1,4 @@
+services:
+  site_location_time.custom_service:
+    class: Drupal\site_location_time\Service\CustomService
+    arguments: []

@@ -1,0 +1,7 @@
+site_location_time.settings:
+  path: 'admin/config/system/site_location_time'
+  defaults:
+    _form:  '\Drupal\site_location_time\Form\SettingsForm'
+    _title: 'Site Location and Time Configuration'
+  requirements:
+    _permission: 'administer site location and time configuration'
